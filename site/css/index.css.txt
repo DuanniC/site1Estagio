@@ -1,0 +1,180 @@
+.container {
+  display: grid;
+  width: 87%;
+  height: 0px;
+  grid-template-columns: 0px 0fr 1fr;
+  grid-template-rows: 0px 0fr 0fr 0px;
+  grid-gap: 0rem;
+  grid-template-areas:
+      "sidebar content-1"
+      "content-2 "
+      "footer content-3";
+    }
+
+    .header {
+  grid-area: header;
+}
+
+.sidebar {
+  grid-area:
+
+}
+
+.content-1 {
+  grid-area: content-1;
+  text-align: center;
+ 
+}
+
+.content-2 {
+  grid-area: content-2;
+  width: auto;
+  margin: 400;
+ background-color: white
+
+ background-repeat;
+ background-size: cover;
+  -webkit-background-size: cover;         
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+ padding-top: 40px
+ background-image: url(telas.png);
+
+ position: absolute;
+  top: 450px;
+  bottom: 0px;
+  left: 50px;
+  padding: 130px;
+  text-align: left;
+  font: 'Bahnschrift SemiLight', sans-serif;;
+
+
+}
+
+.content-3 {
+  grid-area: content-3;
+  width: 100%;
+   height: 90%;
+  margin: 0;
+  background-image: url(final.png);
+  position: absolute;
+  top: 900px;
+  bottom: 0px;
+  left: 0px;
+  padding: 20px;
+  background-repeat: no-repeat;
+
+}
+
+.footer {
+  grid-area: footer;
+
+}
+button.css3button {
+
+  font-family: Arial, Helvetica, sans-serif center;
+  font-size: 14px;
+  color: #ffffff;
+  padding: 11px 20px;
+  background: -moz-linear-gradient(
+    top,
+    #6dcd2b 0%,
+    #6dcd2b);
+  background: -webkit-gradient(
+    linear, left top, left bottom,
+    from(#8ac40c),
+    to(#8ac40c));
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  border: 0px solid #ffffff;
+  -moz-box-shadow:
+    0px 1px 9px rgba(5,5,3,1),
+    inset 0px 0px 0px rgba(255,255,255,0);
+  -webkit-box-shadow:
+    0px 1px 9px rgba(5,5,3,1),
+    inset 0px 0px 0px rgba(255,255,255,0);
+  box-shadow:
+    0px 1px 9px rgba(5,5,3,1),
+    inset 0px 0px 0px rgba(255,255,255,0);
+  text-shadow:
+    0px 1px 0px rgba(250,242,250,1),
+    0px 1px 0px rgba(255,255,255,0);
+}
+button.css3butto {
+  font-family: Cambria;
+  font-size: 40px;
+  color: #ffffff;
+  padding: 10px 30px;
+  background: -moz-linear-gradient(
+    top,
+    #6ab811 0%,
+    #6ab811);
+  background: -webkit-gradient(
+    linear, left top, left bottom,
+    from(#6dcd2b),
+    to(#6dcd2b));
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+  border: 1px solid #6ab811;
+  -moz-box-shadow:
+    0px 1px 3px rgba(106,184,17,0.5),
+    inset 0px 0px 2px rgba(106,184,17,0.7);
+  -webkit-box-shadow:
+    0px 1px 3px rgba(106,184,17,0.5),
+    inset 0px 0px 2px rgba(106,184,17,0.7);
+  box-shadow:
+    0px 1px 3px rgba(106,184,17,0.5),
+    inset 0px 0px 2px rgba(106,184,17,0.7);
+  text-shadow:
+    0px -1px 0px rgba(000,000,000,0.4),
+    0px 1px 0px rgba(255,255,255,0.3);
+}
+
+button.css3butt {
+  font-family: Cambria;
+  font-size: 40px;
+  color: #6dcd2b;
+  padding: 10px 80px;
+  background: -moz-linear-gradient(
+    top,
+    #ffffff 0%,
+    #ffffff);
+  background: -webkit-gradient(
+    linear, left top, left bottom,
+    from(#ffffff),
+    to(#ffffff));
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+  border: 1px solid #ffffff;
+  -moz-box-shadow:
+    0px 1px 3px rgba(255,255,255,0.5),
+    inset 0px 0px 2px rgba(255,255,255,0.7);
+  -webkit-box-shadow:
+    0px 1px 3px rgba(255,255,255,0.5),
+    inset 0px 0px 2px rgba(255,255,255,0.7);
+  box-shadow:
+    0px 1px 3px rgba(255,255,255,0.5),
+    inset 0px 0px 2px rgba(255,255,255,0.7);
+  text-shadow:
+    0px -1px 0px rgba(000,000,000,0.4),
+    0px 1px 0px rgba(255,255,255,0.3);
+    
+
+}
+
+#pl_fundo{
+    width:1350px;
+    height:550px;
+}
+
+#lg_branca{
+   height:550px;
+}
+
+
+
+
