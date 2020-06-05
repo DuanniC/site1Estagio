@@ -1,0 +1,147 @@
+
+
+img {
+height: 500px;
+   width: 1350px;
+}
+
+
+.nav{
+ border: 190px solid #57a222;
+   width: 100px;
+   margin-top: -500px;
+   position: relative;
+   margin-left: 600px;
+  
+}
+
+
+
+.centro{
+   border: 120px solid white;
+   position: relative;
+ width: 1350px;
+   
+}
+
+#lg_branca{
+   margin-top: -1130px;
+   position: relative;
+   width: 200px;
+   height: 70px;
+   margin-left: 680px;
+  
+}
+#cons{
+   font-family: Kiona-Regular;
+   font-size: 16px;
+   color: white;
+   margin-top: -510px;
+   margin-left: 690px;
+   position: relative;
+}
+#esp{
+   position: relative;
+   font-family: arial;
+   width: 350px;
+   color: white;
+   margin-left: 630px;
+   font-size: 20px;
+   margin-top: -5px;
+   
+}
+#trei{
+   color: white;
+   position: relative;
+   margin-left: 750px;
+   font-size: 15px;
+   margin-top: 20px;
+}
+
+#data{
+   position: relative;
+   color: white;
+   margin-left: 680px;
+   font-size: 15px;
+}
+
+.confirma {
+   position: relative;
+  background: #6dcd2b;
+  color: white;
+  border: 1px solid #45981B;
+  border-radius: 70px;
+  cursor: pointer;
+  font-size: 15px;
+  outline: none;
+  padding: 4px 40px;
+   margin-left: 700px;
+   margin-top: 5px;
+}
+#telas{
+   position: absolute;
+   width: 300px;
+   height: 180px;
+   right: 900px;
+   margin-top: 100px;
+   
+}
+.txt_centro{
+   position: relative;
+   font-size: 20px;
+   width: 400px;
+   margin-left:600px;
+   color: #6dcd2b;
+   margin-top: 70px;
+}
+#camb{
+   position: absolute;
+   width: 100px;
+   height: 22px;
+   margin-left: 600px;
+   margin-top: 23px;
+}
+#uni{
+   position: absolute;
+   width: 105px;
+   height: 25px;
+   margin-left: 716px;
+   margin-top: 23px;
+}
+#tec{
+     position: absolute;
+   width: 105px;
+   height: 22px;
+   margin-left: 840px;
+   margin-top: 23px;
+}
+#har{
+     position: absolute;
+   width: 100px;
+   height: 22px;
+   margin-left: 963px;
+   margin-top: 23px;
+}
+#fin{
+   height: 500px;
+   width: 1350px;
+   margin-top: 135px;
+   
+}
+.btn-primary{
+   margin-top: -600px;
+   width: 280px;
+   height: 60px;
+   background-color: #6dcd2b !important;”;
+   margin-left: 550px;
+  font-weight: bolder !important;
+}
+.btn-secondary{
+   margin-top: -500px;
+   width: 280px;
+   height: 60px;
+  background-color: white !important;”;
+   color: #6dcd2b !important;
+   margin-left: 550px;
+   font-weight: bolder !important;
+}
